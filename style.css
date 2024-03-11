@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+.txt1{
+    font-size: 40px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.txt2{
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+.albania_flag{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+}
